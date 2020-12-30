@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SetNamingTest" project="reflect" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.cos.reflect.test.SetNamingTest" time="0.011">
+    <testcase name="키값을세터로바꾸기" classname="com.cos.reflect.test.SetNamingTest" time="0.011"/>
+  </testsuite>
+</testrun>

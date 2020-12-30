@@ -1,0 +1,5 @@
+package com.cos.reflect.dto;
+
+public class JoinDto {
+
+}
